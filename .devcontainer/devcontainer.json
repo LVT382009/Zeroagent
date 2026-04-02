@@ -1,0 +1,16 @@
+{
+    "name": "Agent Zero",
+    "image": "lvt382009/agent-zero:latest",
+    "runArgs": [
+        "--privileged"
+    ],
+    "forwardPorts": [80],
+    "portsAttributes": {
+        "80": {
+            "label": "Agent Zero UI",
+            "onAutoForward": "notify"
+        }
+    },
+    "appPort": [80],
+    "postAttachCommand": "echo 'Agent Zero container is running!'"
+}
