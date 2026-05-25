@@ -35,6 +35,18 @@
       "messageHash": "bi4gqk",
       "outcome": "pending",
       "createdAt": "2026-05-25T08:59:27.533Z"
+    },
+    {
+      "repo": "LVT382009/Zeroagent",
+      "pr": 2,
+      "commentId": 0,
+      "file": "src/agent-utils.ts",
+      "line": 46,
+      "category": "bug",
+      "severity": "high",
+      "messageHash": "6yw25x",
+      "outcome": "pending",
+      "createdAt": "2026-05-25T10:09:22.806Z"
     }
   ]
 }
