@@ -41,12 +41,24 @@
       "pr": 2,
       "commentId": 0,
       "file": "src/agent-utils.ts",
-      "line": 46,
+      "line": 47,
       "category": "bug",
       "severity": "high",
-      "messageHash": "6yw25x",
+      "messageHash": "uxyky4",
       "outcome": "pending",
-      "createdAt": "2026-05-25T10:09:22.806Z"
+      "createdAt": "2026-05-25T10:32:26.970Z"
+    },
+    {
+      "repo": "LVT382009/Zeroagent",
+      "pr": 2,
+      "commentId": 0,
+      "file": "src/agent-utils.ts",
+      "line": 50,
+      "category": "bug",
+      "severity": "medium",
+      "messageHash": "pb3l97",
+      "outcome": "pending",
+      "createdAt": "2026-05-25T10:32:26.970Z"
     }
   ]
 }
