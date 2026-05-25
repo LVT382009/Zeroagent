@@ -11,6 +11,30 @@
       "messageHash": "q6pneb",
       "outcome": "pending",
       "createdAt": "2026-05-25T08:12:10.937Z"
+    },
+    {
+      "repo": "LVT382009/Zeroagent",
+      "pr": 2,
+      "commentId": 0,
+      "file": "src/agent-utils.ts",
+      "line": 47,
+      "category": "bug",
+      "severity": "high",
+      "messageHash": "8qubtx",
+      "outcome": "pending",
+      "createdAt": "2026-05-25T08:59:27.533Z"
+    },
+    {
+      "repo": "LVT382009/Zeroagent",
+      "pr": 2,
+      "commentId": 0,
+      "file": "src/agent-utils.ts",
+      "line": 57,
+      "category": "bug",
+      "severity": "medium",
+      "messageHash": "bi4gqk",
+      "outcome": "pending",
+      "createdAt": "2026-05-25T08:59:27.533Z"
     }
   ]
 }
