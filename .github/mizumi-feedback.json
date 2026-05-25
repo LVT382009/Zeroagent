@@ -1,3 +1,16 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "repo": "LVT382009/Zeroagent",
+      "pr": 2,
+      "commentId": 0,
+      "file": "src/agent-utils.ts",
+      "line": 61,
+      "category": "performance",
+      "severity": "medium",
+      "messageHash": "q6pneb",
+      "outcome": "pending",
+      "createdAt": "2026-05-25T08:12:10.937Z"
+    }
+  ]
 }
