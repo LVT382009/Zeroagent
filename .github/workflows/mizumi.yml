@@ -17,12 +17,12 @@
         contents: write
         issues: write
       steps:
-        - uses: actions/checkout@v4
+        - uses: actions/checkout@v5
           with:
             persist-credentials: false
         - uses: LVT382009/mizumi@v0.1
           with:
             nvidia_api_key: ${{ secrets.NVIDIA_NIM_API_KEY }}
             provider: nvidia
-            model: z-ai/glm-5.1
+            model: minimaxai/minimax-m2.7
             profile: chill
